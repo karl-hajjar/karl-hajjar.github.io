@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Karl Hajjar
+description: I am a PhD student under the supervision of Lénaïc Chizat and Christophe Giraud, working on a mathematical theory of deep neural 
+networks. We mainly study the dynamics induced by gradient descent of the infinite-width limits of such networks to try to discover interesting 
+properties that would shed light on why such models work so well in practice.
