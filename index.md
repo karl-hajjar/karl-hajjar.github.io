@@ -5,5 +5,7 @@ I am a 2nd year PhD student at [Laboratoire de Mathématiques d'Orsay](https://w
 
 # Teaching
 
+[//]: # (* * *)
+
 # CV 
 [CV](data/CV_Karl_Hajjar_phd_june_2021_pdf.pdf)
