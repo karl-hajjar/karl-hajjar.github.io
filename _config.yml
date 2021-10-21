@@ -1,5 +1,21 @@
-theme: jekyll-theme-slate
 title: Karl Hajjar
 description: PhD Student at Laboratoire de Mathématiques d'Orsay
+
+theme: jekyll-theme-slate
+plugins:
+    - jekyll-seo-tag
+
 copyright: Karl Hajjar
 url: https://karl-hajjar.github.io/
+# image: 
+
+twitter: 
+  card: summary
+  username: HajjarKarl
+  
+social:
+  name: Karl Hajjar
+  links: 
+    - https://twitter.com/HajjarKarl
+    - https://www.linkedin.com/in/karl-hajjar-b3607b108/
+    - https://github.com/karl-hajjar
