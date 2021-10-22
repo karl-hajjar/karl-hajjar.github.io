@@ -21,6 +21,9 @@
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <div class="hero">
+            <img class="feature-img" src="{{ '/data/nice_pic_2.png' | relative_url }}" style="max-width:18%" float="right"/>
+          </div>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
@@ -35,9 +38,9 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <div class="hero">
-          <img class="feature-img" src="{{ '/data/nice_pic_2.png' | relative_url }}" style="max-width:18%"/>
-        </div>
+        <!--<div class="hero">-->
+          <!--<img class="feature-img" src="{{ '/data/nice_pic_2.png' | relative_url }}" style="max-width:18%"/>-->
+        <!--</div>-->
         {{ content }}
       </section>
     </div>
