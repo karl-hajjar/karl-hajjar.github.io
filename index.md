@@ -15,7 +15,10 @@ at play in neural networks and therefore develop more performant, robust and les
 **Contact:** [karl.hajjar@polytechnique.edu](karl.hajjar@polytechnique.edu)
 
 [CV](data/CV_Karl_Hajjar_phd_june_2021_pdf.pdf)
+
 # Publications 
+- K. Hajjar, L. Chizat, C. Giraud. **Training Integrable Parameterizations of Deep Neural Networks in the Infinite-Width
+Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021.
 
 # Teaching
 
