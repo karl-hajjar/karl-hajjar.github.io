@@ -4,6 +4,7 @@ description: PhD Student at Laboratoire de Mathématiques d'Orsay
 theme: jekyll-theme-slate
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap
 
 copyright: Karl Hajjar
 url: https://karl-hajjar.github.io/
