@@ -12,9 +12,13 @@ it is the only way to extract the essence of what truly works in deep learning f
 in architecture and optimisation method. My hope is that in doing so, we might obtain insights on the learning principles
 at play in neural networks and therefore develop more performant, robust and less data-hungry networks than current ones.
 
-**Contact:** [karl.hajjar@polytechnique.edu](karl.hajjar@polytechnique.edu)
+# Media
 
-[CV](data/CV_Karl_Hajjar_phd_june_2021_pdf.pdf)
+- **Contact:** [karl.hajjar@polytechnique.edu](karl.hajjar@polytechnique.edu)
+- [Google Scholar](https://scholar.google.com/citations?user=o1pSVrgAAAAJ&hl=fr)
+- [LinkedIn](https://www.linkedin.com/in/karl-hajjar-b3607b108/)
+- [GitHub](https://github.com/karl-hajjar/)
+- [CV](data/CV_Karl_Hajjar_phd_june_2021_pdf.pdf)
 
 # Publications 
 - K. Hajjar, L. Chizat, C. Giraud. **Training Integrable Parameterizations of Deep Neural Networks in the Infinite-Width
@@ -22,6 +26,9 @@ Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 20
 
 # Teaching
 
-[//]: # (* * *)
+[IUT de Sceaux](https://www.iut-sceaux.universite-paris-saclay.fr/formations/formation-initiale/gestion-des-entreprises-et-des-administrations)
+
+- 2020-2021 (Spring): 1st year Probability & Statistics for students in business track for the course of Professor [Franjou](https://www.linkedin.com/in/denis-franjou-85a6a7b1/?originalSubdomain=fr).
+- 2021-2022 (Spring): 1st year Calculus for students in business track for the course of Professor [Casse](https://sites.google.com/view/jcasse/enseignement/s2?authuser=0). 
 
 
