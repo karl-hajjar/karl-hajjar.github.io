@@ -23,12 +23,14 @@ at play in neural networks and therefore develop more performant, robust and les
 # Publications 
 - K. Hajjar, L. Chizat, C. Giraud. **Training Integrable Parameterizations of Deep Neural Networks in the Infinite-Width
 Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021.
+- K. Hajjar, L. Chizat. **On the Symmetries in the Dynamics of Wide two-layer Neural
+Networks.** [[arXiv:2211.08771]](https://arxiv.org/abs/2211.08771#), *Preprint*, 2022.
 
 # Teaching
 
 [IUT de Sceaux](https://www.iut-sceaux.universite-paris-saclay.fr/formations/formation-initiale/gestion-des-entreprises-et-des-administrations)
 
 - 2020-2021 (Spring): 1st year Probability & Statistics for students in business track for the course of Professor [Franjou](https://www.linkedin.com/in/denis-franjou-85a6a7b1/?originalSubdomain=fr).
-- 2021-2022 (Spring): 1st year Calculus for students in business track for the course of Professor [Casse](https://sites.google.com/view/jcasse/enseignement/s2?authuser=0). 
+- 2021-202" (Spring): 1st year Calculus for students in business track for the course of Professor [Casse](https://sites.google.com/view/jcasse/enseignement/s2?authuser=0). 
 
 
