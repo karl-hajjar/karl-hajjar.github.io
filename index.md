@@ -18,6 +18,7 @@ at play in neural networks and therefore develop more performant, robust and les
 - [Google Scholar](https://scholar.google.com/citations?user=o1pSVrgAAAAJ&hl=fr)
 - [LinkedIn](https://www.linkedin.com/in/karl-hajjar-b3607b108/)
 - [GitHub](https://github.com/karl-hajjar/)
+- [Twitter](https://twitter.com/HajjarKarl)
 - [CV](data/CV_Karl_Hajjar_phd_june_2021_pdf.pdf)
 
 # Publications 
