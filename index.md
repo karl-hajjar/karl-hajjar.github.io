@@ -25,7 +25,7 @@ at play in neural networks and therefore develop more performant, robust and les
 - K. Hajjar, L. Chizat, C. Giraud. **Training Integrable Parameterizations of Deep Neural Networks in the Infinite-Width
 Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021.
 - K. Hajjar, L. Chizat. **On the Symmetries in the Dynamics of Wide two-layer Neural
-Networks.** [[arXiv:2211.08771]](https://arxiv.org/abs/2211.08771#), *Preprint*, 2022.
+Networks, 2022.** [[arXiv Preprint](https://arxiv.org/abs/2211.08771#), [ERA special issue](https://aimspress.com/article/doi/10.3934/era.2023112)]
 
 # Teaching
 
