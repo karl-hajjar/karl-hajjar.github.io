@@ -26,6 +26,7 @@ at play in neural networks and therefore develop more performant, robust and les
 Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021.
 - K. Hajjar, L. Chizat. **On the Symmetries in the Dynamics of Wide two-layer Neural
 Networks, 2022.** [[arXiv Preprint](https://arxiv.org/abs/2211.08771#), [ERA special issue](https://aimspress.com/article/doi/10.3934/era.2023112)]
+- [PhD Thesis](data/phd_thesis_karl_hajjar_final.pdf)
 
 # Teaching
 
