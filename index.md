@@ -1,10 +1,10 @@
 # About me
-I am a 2nd year PhD student at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/) 
+I have completed my PhD in January 2024 at [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/) 
 under the supervision of [Lénaïc Chizat](https://lchizat.github.io/) and [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~giraud/), 
-working on a mathematical theory of deep neural networks. I mainly study the dynamics induced by gradient methods in the
+working on a mathematical theory of deep neural networks. I mainly studied the dynamics induced by gradient methods in the
 large-width limit to try to discover interesting properties that would shed light on why such models work so well in practice.
 I graduated from Ecole Polytechnique in 2017 and completed my Masters in 2018 at Ecole Normale Supérieure. Before my PhD,
-I worked two years in Berlin for Zalando as a research engineer. 
+I worked two years in Berlin at Zalando as a research engineer. 
 
 My research interests are around statistics and optimisation, and my goal is to develop a rigorous theory of deep neural 
 networks, even if it is at the cost of studying simpler models than the ones actually used in practice, because I believe
@@ -23,8 +23,8 @@ at play in neural networks and therefore develop more performant, robust and les
 
 # Publications 
 - K. Hajjar, L. Chizat, C. Giraud. **Training Integrable Parameterizations of Deep Neural Networks in the Infinite-Width
-Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021.
-- K. Hajjar, L. Chizat. **On the Symmetries in the Dynamics of Wide two-layer Neural
+Limit.** [[arXiv:2110.15596]](https://arxiv.org/abs/2110.15596#), *Preprint*, 2021, *Under review*.
+- K. Hajjar, L. Chizat. **Symmetries in the Dynamics of Wide two-layer Neural
 Networks, 2022.** [[arXiv Preprint](https://arxiv.org/abs/2211.08771#), [ERA special issue](https://aimspress.com/article/doi/10.3934/era.2023112)]
 - [PhD Thesis](data/phd_thesis_karl_hajjar_final.pdf)
 
